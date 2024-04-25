@@ -1,6 +1,7 @@
-# CCST-104-Advance-Machine-Learning-
+# CCST-104-Advance-Machine-Learning
 
-**Trinidad, Cyla Dendeyl M.
-CS 3A**
+**Trinidad,Cyla Dendeyl M.**
+
+**CS 3A**
 
 **Compilation of Activities**
