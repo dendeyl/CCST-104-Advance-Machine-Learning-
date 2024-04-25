@@ -2,7 +2,7 @@
 
 **CS 3A**
 
-**# Compilation of Advanced Machine Learning Activities (CSST 104)**
+# Compilation of Advanced Machine Learning Activities (CSST 104)
 
 **Table of Contents**
 1. <a href="https://colab.research.google.com/drive/17W_gTw7XbOzSidwDVcTAFbh-UOP9qNJy"> 3A-TRINIDAD-EXER5</a>
